@@ -6,24 +6,19 @@ You can use the [editor on GitHub](https://github.com/agrudt/Blasteroids-Site/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-#Screenshot Gallery
+## Screenshot Gallery
 
-![image](https://user-images.githubusercontent.com/82253713/121097999-cf860780-c7a9-11eb-95db-1a2421095062.png)
-
-![image](https://user-images.githubusercontent.com/82253713/121098046-e7f62200-c7a9-11eb-9c8e-61ddded44e59.png)
-
-![image](https://user-images.githubusercontent.com/82253713/121098257-4f13d680-c7aa-11eb-8f67-97762de431f9.png)
-
+# Opening Menu
+![image](https://user-images.githubusercontent.com/82253713/121099052-00ffd280-c7ac-11eb-9fa3-28ea43b87830.png)
+#
 ![image](https://user-images.githubusercontent.com/82253713/121098132-12e07600-c7aa-11eb-860a-32cf8e76f2db.png)
-
+#
 ![image](https://user-images.githubusercontent.com/82253713/121098325-75397680-c7aa-11eb-9e90-16fbebd0f99c.png)
-
+#
 ![image](https://user-images.githubusercontent.com/82253713/121098500-d2cdc300-c7aa-11eb-9ddd-b643160672e4.png)
-
+#
 ![image](https://user-images.githubusercontent.com/82253713/121098528-e1b47580-c7aa-11eb-9e8f-b3658749d284.png)
-
-![image](https://user-images.githubusercontent.com/82253713/121098721-4ec80b00-c7ab-11eb-8c9a-8458b3f8b091.png)
-
+#
 ![image](https://user-images.githubusercontent.com/82253713/121098757-630c0800-c7ab-11eb-9e7c-110935df95f7.png)
 
 
