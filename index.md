@@ -1,5 +1,5 @@
 ## Blasteroids
-Typing I am typing this
+Blasteroids is a game where you control a spaceship and defend a planet from falling asteroids. Inspired by classic arcade games such as Space Invaders and Galaga, you move left and right while firing lasers at a never-ending flow of asteroids. Getting a higher score gives you powerups, but look out, it also increases the difficulty!
 
 You can use the [editor on GitHub](https://github.com/agrudt/Blasteroids-Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
