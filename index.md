@@ -1,4 +1,4 @@
-## Blasteroids
+# Blasteroids
 Blasteroids is a game where you control a spaceship and defend a planet from falling asteroids. Inspired by classic arcade games such as Space Invaders and Galaga, you move left and right while firing lasers at a never-ending flow of asteroids. Getting a higher score gives you powerups, but it also increasing the difficulty, so look out!
 
 You can use the [editor on GitHub](https://github.com/agrudt/Blasteroids-Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -8,17 +8,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Screenshot Gallery
 
-# Opening Menu
+### Opening Menu
 ![image](https://user-images.githubusercontent.com/82253713/121099052-00ffd280-c7ac-11eb-9fa3-28ea43b87830.png)
-#
+###
 ![image](https://user-images.githubusercontent.com/82253713/121098132-12e07600-c7aa-11eb-860a-32cf8e76f2db.png)
-#
+###
 ![image](https://user-images.githubusercontent.com/82253713/121098325-75397680-c7aa-11eb-9e90-16fbebd0f99c.png)
-#
+###
 ![image](https://user-images.githubusercontent.com/82253713/121098500-d2cdc300-c7aa-11eb-9ddd-b643160672e4.png)
-#
+###
 ![image](https://user-images.githubusercontent.com/82253713/121098528-e1b47580-c7aa-11eb-9e8f-b3658749d284.png)
-#
+###
 ![image](https://user-images.githubusercontent.com/82253713/121098757-630c0800-c7ab-11eb-9e7c-110935df95f7.png)
 
 
