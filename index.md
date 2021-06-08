@@ -29,13 +29,21 @@ I guess put the trailer here?
 ![image](https://user-images.githubusercontent.com/82253713/121098528-e1b47580-c7aa-11eb-9e8f-b3658749d284.png)
 
 ## Credits
+
 Made by Andrew Grudt, Ryan Anderson, Jerahmy Bindon, and Kranti Paudyal
+
 Assets courtesy of:
+
 Green Laser and Asteroid from KindPNG-https://www.kindpng.com/
+
 Music by Eric Matyas-https://soundimage.org/sci-fi/
+
 SpaceShip by Rozebau-http://pixeljoint.com/pixelart/48537.htm
+
 Planet by deep-fold-https://deep-fold.itch.io/pixel-planet-generator
+
 Space Background by le professeur stagiaire-https://opengameart.org/content/space-star-background
+
 Other Asteroids from Klipartz-https://www.klipartz.com/en
 
 ### Markdown
