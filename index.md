@@ -46,6 +46,18 @@ Space Background by le professeur stagiaire-https://opengameart.org/content/spac
 
 Other Asteroids from Klipartz-https://www.klipartz.com/en
 
+## Playtests
+
+### Alpha Playtest
+We learned that we did not set the game to scale to different computers properly. This included setting events to occur based on frames rather than on time, and not anchoring UI aspects to different points of the screen. As a result, the game was inconsistent and much of the feedback related to that. Players were concerned with poor layout and low asteroid spawn rate, although they also requested the ability to mute the game's music.
+
+In response to this, we adjusted the game so that events would happen based on time rather than based on frames. We also anchored UI elements to different parts of the screen so that they would remain in consistent places no matter the size of the screen they are played on.
+
+### Final Playtest
+We sent out the game along with a survey to people we knew, along with posting it online. The overall responses were mixed. Many players thought the difficulty was too hard, none was able to acheive a very high final score. 3 people mentioned that they wished that the lasers would move faster.
+
+As a result of this, we decided ito increase the speed of the lasers from 80 to 100. We also included some minor quality of life improvements, such as making the asteroids rotate as they fell and having the ship flash red when hit.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
