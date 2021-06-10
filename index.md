@@ -62,8 +62,8 @@ As a result of this, we decided ito increase the speed of the lasers from 80 to 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```Development Log
-Syntax highlighted code block
+```
+Development Log
 
 # Header 1
 ## Header 2
