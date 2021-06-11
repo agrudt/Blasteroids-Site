@@ -77,6 +77,12 @@ https://docs.google.com/presentation/d/1Ito9tLG5qXX76VFMkfw3O0Xz0RM3wKYh19RumESx
 
 Link in image (leads to older version): https://srma-uwb.github.io/BlasteroidsWebGL/index.html
 
+## Source Code
+ 
+Available Here: https://github.com/agrudt/Blasteroids-1
+
+Note that the original belongs to Kranti, who dropped the class, so this version is a fork. 
+
 ## Space Dragons Dev Log for Blasteroids
 
 Andrew Grudt, Ryan Anderson, Jerahmy Bindon, Kranti Paudyal
