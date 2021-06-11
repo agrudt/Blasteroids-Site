@@ -8,7 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Gallery
 
-I guess put the trailer here?
+### Trailer:
+https://www.youtube.com/watch?v=ee6V-zWfgCE
+
 ### Welcome to Blasteroids!
 ![image](https://user-images.githubusercontent.com/82253713/121625119-affc1280-ca27-11eb-8fba-f7a23686600e.png)
 
@@ -63,7 +65,7 @@ As a result of this, we decided ito increase the speed of the lasers from 80 to 
 
 https://docs.google.com/presentation/d/1Ito9tLG5qXX76VFMkfw3O0Xz0RM3wKYh19RumESxgUs/edit?usp=sharing
 
-![image](https://user-images.githubusercontent.com/82253713/121627035-7cbb8280-ca2b-11eb-8aa5-24f9c839d3c3.png)
+![image](https://user-images.githubusercontent.com/82253713/121635687-864ce680-ca3b-11eb-87db-41bdeab6ef15.png)
 
 ![image](https://user-images.githubusercontent.com/82253713/121627179-bd1b0080-ca2b-11eb-9f39-e8770cdb0995.png)
 
@@ -73,34 +75,3 @@ https://docs.google.com/presentation/d/1Ito9tLG5qXX76VFMkfw3O0Xz0RM3wKYh19RumESx
 
 Link in image (leads to older version): https://srma-uwb.github.io/BlasteroidsWebGL/index.html
 
-## Team Reflection
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```
-Development Log
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/agrudt/Blasteroids-Site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
