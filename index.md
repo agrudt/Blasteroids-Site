@@ -4,7 +4,6 @@ Blasteroids is a game where you control a spaceship and defend a planet from fal
 
 [Play Blasteroids Here!](https://agrudt.github.io/Blasteroids/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Gallery
 
