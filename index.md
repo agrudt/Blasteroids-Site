@@ -10,23 +10,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Gallery
 
 I guess put the trailer here?
-### Opening Menu
-![image](https://user-images.githubusercontent.com/82253713/121099052-00ffd280-c7ac-11eb-9fa3-28ea43b87830.png)
+### Welcome to Blasteroids!
+![image](https://user-images.githubusercontent.com/82253713/121625119-affc1280-ca27-11eb-8fba-f7a23686600e.png)
 
-### Avoid Falling Asteroids!
-![image](https://user-images.githubusercontent.com/82253713/121098132-12e07600-c7aa-11eb-860a-32cf8e76f2db.png)
+### Avoid and Destroy Falling Asteroids
+![image](https://user-images.githubusercontent.com/82253713/121624699-d66d7e00-ca26-11eb-9df8-ddd21cb5b23e.png)
 
-### Get powerups every 1000 points!
-![image](https://user-images.githubusercontent.com/82253713/121098500-d2cdc300-c7aa-11eb-9ddd-b643160672e4.png)
+### Get powerups every 1000 points
+![image](https://user-images.githubusercontent.com/82253713/121624741-ea18e480-ca26-11eb-8b54-86a92246f19f.png)
 
 ### But look out, difficulty increases as your score goes up!
-![image](https://user-images.githubusercontent.com/82253713/121098757-630c0800-c7ab-11eb-9e7c-110935df95f7.png)
+![image](https://user-images.githubusercontent.com/82253713/121624778-fb61f100-ca26-11eb-91f9-aea49749f765.png)
 
-### Press P if you need to catch your breath!
-![image](https://user-images.githubusercontent.com/82253713/121098325-75397680-c7aa-11eb-9e90-16fbebd0f99c.png)
+### Blast your way to a high score...
+![image](https://user-images.githubusercontent.com/82253713/121624844-24828180-ca27-11eb-8536-066cd15d39e6.png)
 
-### If the health of your ship or the planet drops to 0, it's Game Over!
-![image](https://user-images.githubusercontent.com/82253713/121098528-e1b47580-c7aa-11eb-9e8f-b3658749d284.png)
+### Or die trying!
+![image](https://user-images.githubusercontent.com/82253713/121624820-19c7ec80-ca27-11eb-9eba-b822a3a61138.png)
+
+### Blasteroids-Available Now!
 
 ## Credits
 
@@ -54,9 +56,9 @@ We learned that we did not set the game to scale to different computers properly
 In response to this, we adjusted the game so that events would happen based on time rather than based on frames. We also anchored UI elements to different parts of the screen so that they would remain in consistent places no matter the size of the screen they are played on.
 
 ### Final Playtest
-We sent out the game along with a survey to people we knew, along with posting it online. The overall responses were mixed. Many players thought the difficulty was too hard, none was able to acheive a very high final score. 3 people mentioned that they wished that the lasers would move faster.
+We sent out the game along with a survey to people we knew, along with posting it online. The overall responses were mixed. Many players thought the difficulty was too hard, none was able to acheive a very high final score. 4 people mentioned that they wished that the lasers would move faster, and 6 of 8 survey respondents claimed it was too difficult overall. Half failed to get a score of 1000, enough for the first powerup to activate.
 
-As a result of this, we decided ito increase the speed of the lasers from 80 to 100. We also included some minor quality of life improvements, such as making the asteroids rotate as they fell and having the ship flash red when hit.
+As a result of this, we decided ito increase the speed of the lasers from 80 to 110. We lowered the asteroid health from 4 to 3. We also included some minor quality of life improvements, such as making the asteroids rotate as they fell and having the ship flash red when hit.
 
 ### Markdown
 
