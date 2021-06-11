@@ -8,7 +8,7 @@ Blasteroids is a game where you control a spaceship and defend a planet from fal
 ## Gallery
 
 ### Trailer:
-https://www.youtube.com/watch?v=ee6V-zWfgCE
+![video](https://www.youtube.com/watch?v=ee6V-zWfgCE)
 
 ### Welcome to Blasteroids!
 ![image](https://user-images.githubusercontent.com/82253713/121625119-affc1280-ca27-11eb-8fba-f7a23686600e.png)
