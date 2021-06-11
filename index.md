@@ -3,13 +3,15 @@ Blasteroids is a game where you control a spaceship and defend a planet from fal
 
 
 [Play Blasteroids Here!](https://agrudt.github.io/Blasteroids/)
+[![image](https://user-images.githubusercontent.com/82253713/121637393-2a379180-ca3e-11eb-98b2-aae75d29d742.png)](https://agrudt.github.io/Blasteroids/)
+
 
 
 ## Gallery
 
 ### Trailer:
 
-[![image](https://user-images.githubusercontent.com/82253713/121636330-9913eb00-ca3c-11eb-8425-13057087ba46.png)](https://www.youtube.com/watch?v=ee6V-zWfgCE)
+[![image](https://user-images.githubusercontent.com/82253713/121637535-5bb05d00-ca3e-11eb-8c25-16314ce18194.png)](https://www.youtube.com/watch?v=ee6V-zWfgCE)
 
 ### Welcome to Blasteroids!
 ![image](https://user-images.githubusercontent.com/82253713/121625119-affc1280-ca27-11eb-8fba-f7a23686600e.png)
