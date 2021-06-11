@@ -75,3 +75,110 @@ https://docs.google.com/presentation/d/1Ito9tLG5qXX76VFMkfw3O0Xz0RM3wKYh19RumESx
 
 Link in image (leads to older version): https://srma-uwb.github.io/BlasteroidsWebGL/index.html
 
+## Space Dragons Dev Log for Blasteroids
+
+Andrew Grudt, Ryan Anderson, Jerahmy Bindon, Kranti Paudyal
+
+Note: Kranti dropped the class later in the quarter.
+
+May 15
+
+We used a build from Hero assignments to start, then modified it since our game was similar. Kranti and Andrew found sprites to use for the Planet, Ship, Background, and Lasers. Andrew implemented sprites and movement for the ship in a locked space and mouse aiming for laser. 
+
+To do: Add falling asteroids, score system.
+
+May 16
+
+Ryan renamed variables and functions containing “Egg” to “Laser” in the scripts. Also added a basic score system to tie to asteroids once they were added. Changed laser travel speed and fire rate. Andrew fixed some bugs related to laser direction and size when spawned. He also added laser firing on mouse click.
+
+To do: Add asteroids and asteroid spawn system. Add player and planet health. 
+
+May 17
+
+Kranti implemented asteroids and an asteroid spawn system and collision with lasers. Andrew added health to the player and asteroids are destroyed when they collide with the player.
+
+To do: Score tied to asteroids, asteroid HP.
+
+May 19
+
+Ryan did some more renaming, changing Egg to Laser and Hero to Ship. He also tied score system to asteroid kills and implemented a basic HP system on asteroids.
+To do: Planet health and upgrades.
+
+May 20
+
+Removed Library and Logs folder from GitHub since our gitignore was not working. This solved issues where it would run fine on one member’s PC, but not the others. Andrew added health to the planet and some upgrades to the planet. He used a state machine for the planet for upgrades and hit animation. One state had a huge mass of lasers shoot out to destroy every asteroid on the screen. The other made the planet invincible. These were activated with a key press for testing.
+
+To do: Game over message, upgrades/power ups tied to score.
+
+
+May 22
+
+Andrew updated the invincible state to be temporary. He also added a game over message when the planet or player dies. Player can restart by pressing R.
+To do: Tie upgrades to score. 
+
+May 23
+
+Ryan tied the upgrades to score count. Every 1000 points, you get the laser burst upgrade. He also lowered the spawn rate for asteroids as it was impossibly high.
+To do: Find way to use invincible upgrade. Add music.
+
+May 24
+
+Andrew made it so the upgrade alternates between the laser burst and invincible state every 1000 points. He also added background music.
+To do (All alpha feedback): Rearrange UI elements. Change spawn rate to use FixedUpdate so it is tied to time. Implement increasing difficulty. Mute music option. Make laser overheat. 
+
+May 26
+
+Andrew anchored different UI elements such as the Game Over message to the center of the screen, so it is not all cramped in the bottom left.
+
+To do: Change spawn rate to time and difficulty. Make laser overheat. 
+
+May 27
+
+Ryan made it so the spawn rate was tied to time using FixcedUpdate and changed spawn rate to compensate for the less frequent update call. He also implemented a difficulty system that increases spawn rates each time score increases by 1000. Andrew made it so the difficulty ceiling was not so high, and made it so after 10000 points, you get the upgrades every 1500 points to reduce the chance of a laser burst chaining points up to the next laser burst. He also added textures to make the asteroids look like they are crumbling when hit with a laser.
+
+To do: Limit max number of asteroids at one time, add option to mute music.
+
+May 29
+
+Andrew limited the max number of asteroids that can spawn at once. He also added the ability to mute the music by pressing M. He also added a UI message saying where the music is from and to press M to mute it.
+
+To do: Make laser overheat, main menu.
+
+
+May 30
+
+Ryan implemented a laser overheat system so you cannot just hold down the fire key. However, the overheat counter would continue cooling down past zero, meaning you could “save up” cooldown by not firing for a few seconds, allowing you to shoot longer than normally possible.
+
+To do: Meter for player to see overheat, main menu.
+
+May 31
+
+Ryan added a meter in the bottom left to show how close the laser is to overheating. Some bugs were left with how the bar is displayed, and the cooldown bug. Jerahmy added a main menu with the game name and a play button, as well as a pause menu. For some reason, the menu did not work on other member’s computers. Also, the music was buggy with the menu.
+
+To do: Fix overheat and menu bugs.
+
+June 1
+
+Jerahmy fixed the menu button, so it worked for everyone, and the music is now consistent through the menus. Andrew realized we forgot to change the Planet laser and invincibility upgrades to use FixedUpdate, so he changed them.
+
+To do: Fix overheat bar bug, balance invincible time now that it is tied to FixedUpdate.
+
+June 2
+
+Ryan changed the overheat bar to make the red color on top of the background layer, so it is easier to see. He also reduced the invincible planet time since FixedUpdate made the planet invincible several times longer than it was originally. 
+
+To do: Do final playtest and implement feedback changes. 
+
+June 7
+
+Send out playtests for feedback.
+
+June 10
+
+Andrew implemented feedback we got from the playtest: make the laser travel faster, and reduce asteroid hit points. 
+
+
+## Reflection
+
+In general, game development went somewhat smoothly. The development period was miniscule so we think we should have started development as soon as we had a vague idea of what the game would be. This would have helped us add more features. Our team was good at communicating what we did in terms of development to each other. This dev log and our discord messages are good evidence of communication. If we had more time to work on the game, our highest priority item would be to add our original idea for upgrades. This idea was to collect materials from asteroids that would instantly give you upgrades. The second item would be upgrades for the ship. Right now, the upgrades are more like powerups, and they are only for the planet. The last item we would want to add is different trajectory for the asteroids. Right now, they spawn at the top and fall straight down. We were hoping to have them come in from the sides and follow a curved path down.
+
