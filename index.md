@@ -2,8 +2,7 @@
 Blasteroids is a game where you control a spaceship and defend a planet from falling asteroids. Inspired by classic arcade games such as Space Invaders and Galaga, you move left and right while firing lasers at a never-ending flow of asteroids. Getting a higher score gives you powerups, but it also increasing the difficulty, so look out!
 
 
-You can use the [editor on GitHub](https://github.com/agrudt/Blasteroids-Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-[Play Blasteroids Here!](https://srma-uwb.github.io/BlasteroidsWebGL/)
+[Play Blasteroids Here!](https://agrudt.github.io/Blasteroids/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -56,11 +55,25 @@ We learned that we did not set the game to scale to different computers properly
 In response to this, we adjusted the game so that events would happen based on time rather than based on frames. We also anchored UI elements to different parts of the screen so that they would remain in consistent places no matter the size of the screen they are played on.
 
 ### Final Playtest
-We sent out the game along with a survey to people we knew, along with posting it online. The overall responses were mixed. Many players thought the difficulty was too hard, none was able to acheive a very high final score. 4 people mentioned that they wished that the lasers would move faster, and 6 of 8 survey respondents claimed it was too difficult overall. Half failed to get a score of 1000, enough for the first powerup to activate.
+We sent out the game along with a survey to people we knew, along with posting it online. The overall responses were mixed. Many players thought the difficulty was too hard, none was able to acheive a very high final score. 4 people mentioned that they wished that the lasers would move faster, and 6 of 8 survey respondents claimed it was too difficult overall. At least two players failed to get a score of 1000, enough for the first powerup to activate.
 
-As a result of this, we decided ito increase the speed of the lasers from 80 to 110. We lowered the asteroid health from 4 to 3. We also included some minor quality of life improvements, such as making the asteroids rotate as they fell and having the ship flash red when hit.
+As a result of this, we decided ito increase the speed of the lasers from 80 to 110. We lowered the asteroid health from 4 to 3. We believed that this made our game much easier while still being challenging. We also included some minor quality of life improvements, such as removing a bug that allowed players to unpause when they died, making the asteroids rotate as they fell, and having the ship flash red when hit.
 
-### Markdown
+## Presentation
+
+https://docs.google.com/presentation/d/1Ito9tLG5qXX76VFMkfw3O0Xz0RM3wKYh19RumESxgUs/edit?usp=sharing
+
+![image](https://user-images.githubusercontent.com/82253713/121627035-7cbb8280-ca2b-11eb-8aa5-24f9c839d3c3.png)
+
+![image](https://user-images.githubusercontent.com/82253713/121627179-bd1b0080-ca2b-11eb-9f39-e8770cdb0995.png)
+
+![image](https://user-images.githubusercontent.com/82253713/121627206-c73cff00-ca2b-11eb-90b0-69392dc56bbc.png)
+
+![image](https://user-images.githubusercontent.com/82253713/121627231-d328c100-ca2b-11eb-94c8-0782df32fe13.png)
+
+Link in image (leads to older version): https://srma-uwb.github.io/BlasteroidsWebGL/index.html
+
+## Team Reflection
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
